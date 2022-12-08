@@ -7,7 +7,7 @@ binwalk==2.2.0
 blinker==1.4
 Brotli==1.0.9
 capstone==3.0.5
-certifi==2020.6.20
+certifi==2022.12.7
 chardet==3.0.4
 chrome-gnome-shell==0.0.0
 click==7.1.2
