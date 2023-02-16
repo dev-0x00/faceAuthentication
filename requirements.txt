@@ -124,7 +124,7 @@ vinetto==0.8.0
 wafw00f==2.1.0
 wapiti3==3.0.3
 webencodings==0.5.1
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 wfuzz==2.3.3
 wifite==2.5.5
 wsproto==0.15.0
